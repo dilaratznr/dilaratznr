@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<h3 align="center">Passionate about robotics</h3>
 
 
 <p align="center">
@@ -7,12 +6,7 @@
   May 2024 – Present · Ankara, Türkiye
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <b>VTOL</b> (autonomy, perception & control).</li>
-  <li>🌱 I’m currently learning <b>advanced C++</b>.</li>
-  <li>💬 Ask me about <b>ROS/ROS2</b> and <b>OpenCV</b> (no SLAM anymore).</li>
-  <li>📫 How to reach me: <b>dilaratuezuner@gmail.com</b></li>
-</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
